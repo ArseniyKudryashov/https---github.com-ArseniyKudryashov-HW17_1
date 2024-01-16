@@ -10,8 +10,10 @@ public:
     string jobTitle;
     string salary;
     string education;
+
     
     
+
     Worker()
     {
         string surname;
