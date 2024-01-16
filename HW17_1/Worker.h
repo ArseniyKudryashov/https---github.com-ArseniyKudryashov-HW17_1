@@ -11,6 +11,7 @@ public:
     string salary;
     string education;
     
+    
     Worker()
     {
         string surname;
